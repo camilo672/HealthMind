@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "258435967655",
+    "project_id": "gend-5088f",
+    "storage_bucket": "gend-5088f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258435967655:android:c86750bc1b89c121cc0982",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258435967655-aigr909g5p9t9ka0pukr9aj7jd3t9rio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARsqBfI1QN-Jv6sRzLX9J2A5W9N2GSjH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258435967655-aigr909g5p9t9ka0pukr9aj7jd3t9rio.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "258435967655-u11ld06r4f51uqduaa46npd6nr3lg5l8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gend.app.crudFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258435967655:android:e498d803afb9a13dcc0982",
+        "android_client_info": {
+          "package_name": "my.app.phsycho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258435967655-aigr909g5p9t9ka0pukr9aj7jd3t9rio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARsqBfI1QN-Jv6sRzLX9J2A5W9N2GSjH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258435967655-aigr909g5p9t9ka0pukr9aj7jd3t9rio.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "258435967655-u11ld06r4f51uqduaa46npd6nr3lg5l8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gend.app.crudFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
